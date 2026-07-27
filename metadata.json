@@ -1,0 +1,6 @@
+{
+  "name": "AI Image Studio",
+  "description": "Next-gen AI Image Generator SaaS powered by Gemini with 1K/2K/4K resolution support, style presets, negative prompts, canvas editing, and masonry showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
